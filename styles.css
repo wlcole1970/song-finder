@@ -1,0 +1,30 @@
+header {
+	background-color: #f5f5f5;
+	background: #e0dede;
+	padding-bottom: 10px;
+	text-align: center;
+	border-radius: 10px;
+}
+main {
+	display: grid;
+	background: #f5f5f5;
+	grid-template-columns: auto auto auto;
+	grid-template-rows: auto auto auto;
+	grid-gap: 5px;
+	padding-top: 10px;
+	border-radius: 10px;
+}
+
+article {
+	/* border: 1px solid black; */
+	background: #f5f5f5;
+	text-align: center;
+	padding-top: 5px;
+}
+
+body {
+	color: #383e56;
+
+	font-family: 'Russo One', sans-serif;
+}
+
